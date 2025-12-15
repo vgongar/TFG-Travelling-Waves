@@ -1,0 +1,8 @@
+# Ignorar entorno virtual
+src/.venv/
+.venv/
+
+# Ignorar archivos basura de Mac y Python
+.DS_Store
+__pycache__/
+*.pyc
