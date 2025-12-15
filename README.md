@@ -16,7 +16,7 @@ otra solución siga las instrucciones de la última sección del TFG en /docs/"O
 4. Ejecutar y visualizar!.
 
 ## 📥 Descarga del TFG
-Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). También están disponibles las [transparencias](./docs/Presentación_TFG.pdf) usadas el día de la defensa. 
+Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). También están disponibles las [transparencias](docs/Presentación_TFG.pdf) usadas el día de la defensa. 
 
 ## ⚖️ Licencia y Derechos de Uso
 
