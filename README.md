@@ -18,6 +18,18 @@ otra solución siga las instrucciones de la última sección del TFG en /docs/"O
 ## 📥 Descarga del TFG
 Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf).
 
+## ⚖️ Licencia y Derechos de Uso
+
+Este repositorio utiliza un esquema de **licencia dual** para proteger los diferentes tipos de contenido:
+
+### 💻 Código Fuente (`/src`)
+Todo el código fuente desarrollado para este proyecto (archivos `.py`, scripts, algoritmos) se encuentra bajo la **Licencia MIT**.
+> Eres libre de usar, modificar y distribuir el código, siempre que se mantenga la atribución al autor original. Consulta el archivo `LICENSE` para más detalles.
+
+### 📄 Memoria del TFG (`/docs`)
+El documento de texto de la memoria ("Ondas viajeras en ecuaciones...") está protegido bajo una licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
+> Puedes descargar y leer el documento libremente. Sin embargo, **no está permitido** modificar el texto, usarlo con fines comerciales ni distribuirlo sin atribuir la autoría original.
+
 # 🇬🇧 Travelling waves in inhomogeneous wave equations
 
 - __Víctor González García__
@@ -36,3 +48,15 @@ The __Shallow Waters__ model is a set of partial differential equations (PDE) wh
 
 ## 📥 Donwload thesis
 You can read the thesis [clicking here](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). (It is in Spanish)
+
+## ⚖️ License and Usage Rights
+
+This repository uses a **dual licensing** scheme to protect different types of content:
+
+### 💻 Source Code (`/src`)
+All source code developed for this project (`.py` files, scripts, algorithms) is licensed under the **MIT License**.
+> You are free to use, modify, and distribute the code, provided that attribution to the original author is maintained. See the `LICENSE` file for more details.
+
+### 📄 Thesis Document (`/docs`)
+The thesis document ("Ondas viajeras en ecuaciones...") is protected under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+> You may freely download and read the document. However, you are **not permitted** to modify the text, use it for commercial purposes, or distribute it without attributing the original authorship.
