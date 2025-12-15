@@ -1,7 +1,7 @@
 # 🇪🇸 Ondas viajeras en ecuaciones de ondas inhomogéneas 
 
-- ** Víctor González García **
-- ** Universidad de Granada **
+- __Víctor González García__
+- __Universidad de Granada__
 - Grado en Matemáticas
 
 ## Resumen
@@ -20,8 +20,8 @@ Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20
 
 # 🇬🇧 Travelling waves in inhomogeneous wave equations
 
-- ** Víctor González García **
-- ** Universidad de Granada **
+- __Víctor González García__
+- __Universidad de Granada__
 - Grado en Matemáticas
 
 ## Abstract
