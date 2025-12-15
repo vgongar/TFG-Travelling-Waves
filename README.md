@@ -16,7 +16,7 @@ otra solución siga las instrucciones de la última sección del TFG en /docs/"O
 4. Ejecutar y visualizar!.
 
 ## 📥 Descarga del TFG
-Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf).
+Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). También están disponibles las [transparencias](./docs/Presentación_TFG.pdf) usadas el día de la defensa. 
 
 ## ⚖️ Licencia y Derechos de Uso
 
@@ -47,7 +47,7 @@ The __Shallow Waters__ model is a set of partial differential equations (PDE) wh
 4. Run and visualize!
 
 ## 📥 Donwload thesis
-You can read the thesis [clicking here](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). (It is in Spanish)
+You can read the thesis [clicking here](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). [Slides](./docs/Presentación_TFG.pdf) used at defense day are also available. (Both in Spanish)
 
 ## ⚖️ License and Usage Rights
 
