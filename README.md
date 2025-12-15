@@ -35,4 +35,4 @@ The __Shallow Waters__ model is a set of partial differential equations (PDE) wh
 4. Run and visualize!
 
 ## 📥 Donwload thesis
-You can read the thesis [clicking here](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf).
+You can read the thesis [clicking here](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf). (It is in Spanish)
