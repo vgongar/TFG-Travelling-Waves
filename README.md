@@ -34,7 +34,7 @@ El documento de texto de la memoria ("Ondas viajeras en ecuaciones...") está pr
 
 - __Víctor González García__
 - __Universidad de Granada__
-- Grado en Matemáticas
+- BSc in Mathematics
 
 ## Abstract
 The __Shallow Waters__ model is a set of partial differential equations (PDE) which describe the motion of a fluid when the container in which the fluid is in is shallow. The thesis tackles what is known in the literature as the \textit{direct problem}: do properties about the profile of the bottom of the container transfer to travelling waves in the surface? A solution to this question is given by Zhang which is called in the thesis as the __Zhang theorem__ and it is partially affirmative: under certain assumptions a periodic profile generates periodic travelling waves on its surface. The last part of the work is an implementation of a __numerical algorithm in Python__ to calculate this periodic solution the theorem states, visualizing wave dynamics and validating theoretical results.
