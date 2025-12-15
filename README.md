@@ -9,11 +9,11 @@ El modelo de __Shallow Waters__ (Aguas poco profundas) es un conjunto de ecuacio
 
 ## Instalación
 
-1. Descargar el repositorio. Download the repository.
+1. Descargar el repositorio.
 2. Cada programa de la carpeta `src` está configurado con los parámetros correctos. Si quiere cambiarlos porque esté buscando
-otra solución siga las instrucciones de la última sección del TFG en /docs/"Ondas viajeras en ecuaciones de ondas inhomogéneas.pdf". Each program in `src` folder is already configured with some parameters. If you desire to change them because you want another periodic solution follow the instructions on the thesis' last section in /docs/"Ondas viajeras en ecuaciones de ondas inhomogéneas.pdf" (It is in Spanish).
-3. Instalar librerías usando `pip install -r requirements.txt`. Install libraries using `pip install -r requirements.txt`
-4. Ejecutar y visualizar!. Run and visualize!
+otra solución siga las instrucciones de la última sección del TFG en /docs/"Ondas viajeras en ecuaciones de ondas inhomogéneas.pdf".
+3. Instalar librerías usando `pip install -r requirements.txt`.
+4. Ejecutar y visualizar!.
 
 ## 📥 Descarga del TFG
 Puedes leer la memoria completa [haciendo clic aquí](./docs/Ondas%20viajeras%20en%20ecuaciones%20de%20ondas%20inhomogéneas.pdf).
