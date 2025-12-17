@@ -4,6 +4,19 @@
 - __Universidad de Granada__
 - Grado en Matemáticas
 
+## Motivación
+El modelo de __Shallow Waters__ (Aguas poco profundas) es un conjunto de ecuaciones en derivadas parciales (EDP) que describen el movimiento de un fluido cuando el recipiente que lo contiene es poco profundo.
+
+$$
+\begin{align}
+  \frac{\partial \eta}{\partial t}+\frac{\partial}{\partial x}[h(x)u]&=0 \\
+  \frac{\partial u}{\partial t}+g\frac{\partial \eta}{\partial x}&=0
+\end{align}
+$$
+
+<img width="1.3132*200" height="200" alt="model-sketch" src="https://github.com/user-attachments/assets/6b2c3d6f-d85b-4ea7-9285-9cf9af79e102" />
+  
+
 ## Resumen
 El modelo de __Shallow Waters__ (Aguas poco profundas) es un conjunto de ecuaciones en derivadas parciales (EDP) que describen el movimiento de un fluido cuando el recipiente que lo contiene es poco profundo. Este trabajo aborda lo que se conoce en la literatura como el _problema directo_: ¿se transfieren las propiedades sobre el perfil del fondo del recipiente a las ondas viajeras en la superficie? Zhang ofrece una respuesta a esta pregunta, denominada en el trabajo como el __teorema de Zhang__, y es parcialmente afirmativa: bajo ciertas hipótesis, un perfil periódico genera ondas viajeras periódicas en su superficie. La última parte del trabajo consiste en la implementación de un __algoritmo numérico en Python__ para calcular esta solución periódica que establece el teorema, visualizando la dinámica de las ondas y validando los resultados teóricos.
 
