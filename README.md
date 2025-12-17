@@ -58,7 +58,7 @@ El documento de texto de la memoria ("Ondas viajeras en ecuaciones...") está pr
 - __Universidad de Granada__
 - BSc in Mathematics
 
-- ## Motivation
+## Motivation
 The __Shallow Waters__ model is a set of partial differential equations (PDE) which describe the motion of a fluid when the container is shallow.
 
 $$
