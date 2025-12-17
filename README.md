@@ -71,20 +71,19 @@ $$
   <img width="1.29*300" height="300" alt="model-sketch" src="https://github.com/user-attachments/assets/b67851c4-ea59-4d44-a6bd-eff265779970" />
 </div>
 
-The thesis tackles what is known in the literature as the \textit{direct problem}: can properties about the bottom profile of the container transfer to travelling waves in the surface?
+The thesis tackles what is known in the literature as the __direct problem__: can properties about the bottom profile of the container transfer to travelling waves in the surface?
 
 To find answers about this, we will delve into __Floquet Theory__ for periodic linear differential equations, __Hill's Equation__ and review recent research papers.
   
 ## Abstract
 
-For understanding the problem, the first section of the work consists of an introduction to __Floquet Theory__ (monodormy matrix, Floquet's Theorem, stability analysis, etc.) and its application to __Hill's Equation__: $(py)'+qy=0$, where $p,q$ are functions with the same period.  
+For understanding the problem, the first section of the work consists of an introduction to __Floquet Theory__ (monodromy matrix, Floquet's Theorem, stability analysis, etc.) and its application to __Hill's Equation__: $(py)'+qy=0$, where $p,q$ are functions with the same period.  
 
 In the second section we introduce the concept of __travelling wave__, which, in complex notation, takes the form: $\eta(t,x)=A(x)\exp(i(\omega t-\psi(x))$. Subsequently, we derive sufficient and necessary conditions the wave's coefficient must satisfy to be a solution and we prove what we denominate __Zhang's theorem__. It provides a partial affirmative answer to our question: under certain extra hypotheses, a periodic profile generates travelling waves with periodic amplitude on the surface.
 
-While Zhang's theorem proves the existence of a periodic travelling wave, given certain conditions, it doesn't give a constructive method to find it. The last section of the thesis consists of implementation of a __numerical algorithm in Python__ from scratch, based on fixed points of the __Poincaré application__, to compute these waves, visualizing wave dynamics and validating theoretical results. The __Poincaré map__ is defined as a function that given certain initial conditions, $X_0$ and an instant $t$, evaluates the unique solution corresponding with the Initial Value Problem (IVP) at time $t$. For autonomous equations, such as the one we derived for wave amplitude, finding a periodic solution is equivalent to computing a fixed point of the __Poincaré map.
+While Zhang's theorem proves the existence of a periodic travelling wave, given certain conditions, it doesn't give a constructive method to find it. The last section of the thesis consists of implementation of a __numerical algorithm in Python__ from scratch, based on fixed points of the __Poincaré application__, to compute these waves, visualizing wave dynamics and validating theoretical results. The __Poincaré map__ is defined as a function that given certain initial conditions, $X_0$ and an instant $t$, evaluates the unique solution corresponding with the Initial Value Problem (IVP) at time $t$. For autonomous equations, such as the one we derived for wave amplitude, finding a periodic solution is equivalent to computing a fixed point of the __Poincaré map__.
 
-## Abstract
- The thesis tackles what is known in the literature as the \textit{direct problem}: do properties about the profile of the bottom of the container transfer to travelling waves in the surface? A solution to this question is given by Zhang which is called in the thesis as the __Zhang theorem__ and it is partially affirmative: under certain assumptions a periodic profile generates periodic travelling waves on its surface. The last part of the work is an implementation of a __numerical algorithm in Python__ to calculate this periodic solution the theorem states, visualizing wave dynamics and validating theoretical results.
+You can read more in the thesis' abstract at the beginning (in English!).
 
 
 ## Installation
