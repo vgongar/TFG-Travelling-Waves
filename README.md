@@ -27,7 +27,9 @@ Para entender el problema se dispone de una primera sección sobre la __teoría 
 
 En la segunda sección se introduce el concepto de onda viajera, que en forma compleja adopta la forma: $\eta(t,x)=A(x)\exp(i(\omega t-\psi(x))$. Posteriormente, se encuentran condiciones necesarias y suficientes que deben cumplir los coeficientes de la onda para que esta se encuentre como solución del modelo y se demuestra lo que se denomina en el trabajo como el __teorema de Zhang__. Viene a responder de forma parcial a nuestra pregunta: bajo ciertas hipótesis, un perfil periódico genera ondas viajeras de amplitud periódica en la superficie. 
 
-El teorema de Zhang demuestra la existencia de una onda viajera periódica dadas ciertas condiciones, pero no dice como encontrarla. La última sección del trabajo consiste en la implementación de un __algoritmo numérico en Python__, basado en los puntos fijos de la aplicación de Poincaré, para calcularla, visualizando la dinámica de las ondas y validando los resultados teóricos. La __aplicación de Poincaré__ es una aplicación que dadas unas condiciones iniciales, $X_0$, y un instante de tiempo, $t$, evalúa la única solución del PVI correspondiente a tiempo $t$. Cuando la ecuación es autónoma, como la que encontramos en el trabajo asociada a la amplitud de onda, encontrar una solución periódica equivale a encontrar un punto fijo de la aplicación de Poincaré.
+El teorema de Zhang demuestra la existencia de una onda viajera periódica dadas ciertas condiciones, pero no dice como encontrarla. La última sección del trabajo consiste en la implementación de un __algoritmo numérico en Python__, basado en los puntos fijos de la aplicación de Poincaré, para calcularla, visualizando la dinámica de las ondas y comprobando los resultados teóricos. 
+
+La __aplicación de Poincaré__ es una aplicación que dadas unas condiciones iniciales, $X_0$, y un instante de tiempo, $t$, evalúa la única solución del PVI correspondiente a tiempo $t$. Cuando la ecuación es autónoma, como la que encontramos en el trabajo asociada a la amplitud de onda, encontrar una solución periódica equivale a encontrar un punto fijo de la aplicación de Poincaré.
 
 ## Instalación
 
@@ -81,10 +83,11 @@ For understanding the problem, the first section of the work consists of an intr
 
 In the second section we introduce the concept of __travelling wave__, which, in complex notation, takes the form: $\eta(t,x)=A(x)\exp(i(\omega t-\psi(x))$. Subsequently, we derive sufficient and necessary conditions the wave's coefficient must satisfy to be a solution and we prove what we denominate __Zhang's theorem__. It provides a partial affirmative answer to our question: under certain extra hypotheses, a periodic profile generates travelling waves with periodic amplitude on the surface.
 
-While Zhang's theorem proves the existence of a periodic travelling wave, given certain conditions, it doesn't give a constructive method to find it. The last section of the thesis consists of implementation of a __numerical algorithm in Python__ from scratch, based on fixed points of the __Poincaré application__, to compute these waves, visualizing wave dynamics and validating theoretical results. The __Poincaré map__ is defined as a function that given certain initial conditions, $X_0$ and an instant $t$, evaluates the unique solution corresponding with the Initial Value Problem (IVP) at time $t$. For autonomous equations, such as the one we derived for wave amplitude, finding a periodic solution is equivalent to computing a fixed point of the __Poincaré map__.
+While Zhang's theorem proves the existence of a periodic travelling wave, given certain conditions, it doesn't give a constructive method to find it. The last section of the thesis consists of implementation of a __numerical algorithm in Python__ from scratch, based on fixed points of the __Poincaré application__, to compute these waves, visualizing wave dynamics and validating theoretical results. 
+
+The __Poincaré map__ is defined as a function that given certain initial conditions, $X_0$ and an instant $t$, evaluates the unique solution corresponding with the Initial Value Problem (IVP) at time $t$. For autonomous equations, such as the one we derived for wave amplitude, finding a periodic solution is equivalent to computing a fixed point of the __Poincaré map__.
 
 You can read more in the thesis' abstract at the beginning (in English!).
-
 
 ## Installation
 1. Download the repository.
